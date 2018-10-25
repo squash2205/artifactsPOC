@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncCOEMAXDOMAIN xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2018-10-25T20:11:05+01:00" transLanguage="EN" baseLanguage="EN" messageID="1418385.154049466555834168" maximoVersion="7 6 20171127-0100 V7609-45" event="0">
+  <COEMAXDOMAINSet>
+    <MAXDOMAIN>
+      <DESCRIPTION>Status domain for the account mapping. TEST</DESCRIPTION>
+      <DOMAINID>ACCTSTATUS</DOMAINID>
+      <DOMAINTYPE maxvalue="ALN">ALN</DOMAINTYPE>
+      <INTERNAL>0</INTERNAL>
+      <LENGTH>12</LENGTH>
+      <MAXDOMAINID>46544</MAXDOMAINID>
+      <MAXTYPE>UPPER</MAXTYPE>
+      <NEVERCACHE>0</NEVERCACHE>
+      <SCALE>0</SCALE>
+      <ALNDOMAIN>
+        <ALNDOMAINID>42685</ALNDOMAINID>
+        <DESCRIPTION>APPR</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>APPR</VALUE>
+        <VALUEID>ACCTSTATUS|APPR</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>42684</ALNDOMAINID>
+        <DESCRIPTION>DRAFT</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>DRAFT</VALUE>
+        <VALUEID>ACCTSTATUS|DRAFT</VALUEID>
+      </ALNDOMAIN>
+      <MAXDOMVALCOND>
+        <CONDITIONNUM>ACCT_DRAFT</CONDITIONNUM>
+        <MAXDOMVALCONDID>25509</MAXDOMVALCONDID>
+        <OBJECTNAME />
+        <VALUEID>ACCTSTATUS|APPR</VALUEID>
+      </MAXDOMVALCOND>
+    </MAXDOMAIN>
+  </COEMAXDOMAINSet>
+</SyncCOEMAXDOMAIN>
+

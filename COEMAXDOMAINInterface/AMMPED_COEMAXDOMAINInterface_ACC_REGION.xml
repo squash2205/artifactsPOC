@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncCOEMAXDOMAIN xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2018-10-25T20:02:05+01:00" transLanguage="EN" baseLanguage="EN" messageID="5219006.1540494126834228482" maximoVersion="7 6 20171127-0100 V7609-45" event="0">
+  <COEMAXDOMAINSet>
+    <MAXDOMAIN>
+      <DESCRIPTION>Region list</DESCRIPTION>
+      <DOMAINID>ACC_REGION</DOMAINID>
+      <DOMAINTYPE maxvalue="ALN">ALN</DOMAINTYPE>
+      <INTERNAL>0</INTERNAL>
+      <LENGTH>20</LENGTH>
+      <MAXDOMAINID>6041</MAXDOMAINID>
+      <MAXTYPE>ALN</MAXTYPE>
+      <NEVERCACHE>0</NEVERCACHE>
+      <SCALE>0</SCALE>
+      <ALNDOMAIN>
+        <ALNDOMAINID>4672</ALNDOMAINID>
+        <DESCRIPTION>Demo Region 01</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>Demo Region 01</VALUE>
+        <VALUEID>ACC_REGION|Demo Region 01</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>4673</ALNDOMAINID>
+        <DESCRIPTION>Region 01</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>Region 01</VALUE>
+        <VALUEID>ACC_REGION|Region 01</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>27984</ALNDOMAINID>
+        <DESCRIPTION>St. Louis</DESCRIPTION>
+        <ORGID>AMEREN</ORGID>
+        <SITEID />
+        <VALUE>STLOUIS</VALUE>
+        <VALUEID>ACC_REGION|STLOUIS|AMEREN|</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>4674</ALNDOMAINID>
+        <DESCRIPTION>UE10</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>UE10</VALUE>
+        <VALUEID>ACC_REGION|UE10</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>4675</ALNDOMAINID>
+        <DESCRIPTION>UT10</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>UT10</VALUE>
+        <VALUEID>ACC_REGION|UT10</VALUEID>
+      </ALNDOMAIN>
+    </MAXDOMAIN>
+  </COEMAXDOMAINSet>
+</SyncCOEMAXDOMAIN>
+
