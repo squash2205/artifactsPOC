@@ -2,7 +2,7 @@
 <SyncCOEMAXDOMAIN xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2018-10-25T20:11:05+01:00" transLanguage="EN" baseLanguage="EN" messageID="1418385.154049466555834168" maximoVersion="7 6 20171127-0100 V7609-45" event="0">
   <COEMAXDOMAINSet>
     <MAXDOMAIN>
-      <DESCRIPTION>Status domain for the account mapping</DESCRIPTION>
+      <DESCRIPTION>Status domain for the account mapping. TEST</DESCRIPTION>
       <DOMAINID>ACCTSTATUS</DOMAINID>
       <DOMAINTYPE maxvalue="ALN">ALN</DOMAINTYPE>
       <INTERNAL>0</INTERNAL>
