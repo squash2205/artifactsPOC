@@ -2,7 +2,7 @@
 <SyncCOEMAXDOMAIN xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2018-10-25T20:02:05+01:00" transLanguage="EN" baseLanguage="EN" messageID="5219006.1540494126834228482" maximoVersion="7 6 20171127-0100 V7609-45" event="0">
   <COEMAXDOMAINSet>
     <MAXDOMAIN>
-      <DESCRIPTION>Region list</DESCRIPTION>
+      <DESCRIPTION>Region lists</DESCRIPTION>
       <DOMAINID>ACC_REGION</DOMAINID>
       <DOMAINTYPE maxvalue="ALN">ALN</DOMAINTYPE>
       <INTERNAL>0</INTERNAL>
